@@ -7,8 +7,9 @@ let getComputerChoice = () => {
 };
 
 let getHumanChoice = () => {
-  console.log("Choose one of the options 'Rock', 'Paper', or 'Scissors'");
-  let humanChoice = prompt("Type one of the follow options above");
+  let humanChoice = prompt(
+    "Type one of the options 'Rock', 'Paper', or 'Scissors'"
+  );
 
   return humanChoice.toLowerCase();
 };
