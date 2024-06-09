@@ -1,2 +1,3 @@
 # rock-paper-scissors
-Rock Paper Scissors game build using JavaScript
+
+Console Rock Paper Scissors game build using JavaScript
